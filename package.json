@@ -1,5 +1,5 @@
 {
-  "name": "@test/rc-dropdown",
+  "name": "test-rc-dropdown",
   "version": "2.1.2",
   "description": "dropdown ui component for react",
   "keywords": [
